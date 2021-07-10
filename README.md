@@ -1,6 +1,6 @@
 # Open Neuroscience Repository 🧠
 
-An community-fed index of data-sharing initiatives, as well as of resources working towards reproducible Science 🧪.
+A community-fed index of data-sharing initiatives, as well as of resources working towards reproducible Science 🧪.
 Lists are alphabetically organized. If you'd like to contribute (please do!), submit your pull request.
 
 ## 💾 Data-sharing initiatives
