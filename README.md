@@ -27,10 +27,13 @@ Lists are alphabetically organized. If you'd like to contribute (please do!), su
 | UCLA Library Psychology List | | Psychology| https://guides.library.ucla.edu/psychology/data|
 
 ## 📚 Learning
-
+| Who | What  | Where |
+--- | --- | --- 
+|Johns Hopkins University| Reproducible Research Course|https://www.coursera.org/learn/reproducible-research|
 
 
 
 ## Resources
+- Web search
 - Woo *et al.*, Building better biomarkers: Brain models in translational neuroimaging, *Nature Neuroscience*, 2017
-- Own web search
+
