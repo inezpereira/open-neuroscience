@@ -24,7 +24,7 @@ Lists are alphabetically organized. If you'd like to contribute (please do!), su
 ## 🗂 Other lists
 | Who | Imaging modality  | Area of interest | Link |
 --- | --- | --- | ---
-| UCLA Library Psychology List | | Psychology| https://guides.library.ucla.edu/psychology/data|
+| UCLA Library Psychology List | Multimodal | Psychology| https://guides.library.ucla.edu/psychology/data|
 
 ## 📚 Learning
 | Who | What  | Where |
@@ -33,7 +33,6 @@ Lists are alphabetically organized. If you'd like to contribute (please do!), su
 
 
 
-## Resources
-- Web search
+## 👓 Other resources
 - Woo *et al.*, Building better biomarkers: Brain models in translational neuroimaging, *Nature Neuroscience*, 2017
 
