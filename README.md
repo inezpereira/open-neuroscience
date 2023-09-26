@@ -8,7 +8,8 @@ Lists are alphabetically organized. If you'd like to contribute (please do!), su
 | Who (Initials) | Imaging modality  | Disorders | Link |
 --- | --- | --- | ---
 | Alzheimer’s Disease Neuroimaging Initiative (ADNI) | Multimodel (includes sMRI, fMRI, PET) | Alzheimer’s| http://adni.loni.usc.edu/ |
-|Australian Imaging, Biomarkers & Lifestyle (AIBL) | Multimodel (includes sMRI, PET) | Alzheimer’s | https://aibl.csiro.au/ | 
+| Australian Imaging, Biomarkers & Lifestyle (AIBL) | Multimodel (includes sMRI, PET) | Alzheimer’s | https://aibl.csiro.au/ |
+| COBRE | fMRI, sMRI | Schizophrenia | http://fcon_1000.projects.nitrc.org/indi/retro/cobre.html |
 | Collaborative Informatics and Neuroimaging Suite (COINS) | | | https://coins.trendscenter.org/|
 | function Biomedical Informatics Research Network (fBIRN) | fMRI, sMRI| Schizophrenia|http://www.schizconnect.org/ |
 |International Data-sharing Initiative (INDI)| | | http://fcon_1000.projects.nitrc.org/| 
